@@ -20,7 +20,7 @@ print("Step 12: Turn off the heat and serve hot.")
 # PRACTICAL TASK : 2
 
 
-my_age =  18
+my_age =  15
 my_hobby = "Dancing"  
 
 print("I am", my_age, "years old.")
